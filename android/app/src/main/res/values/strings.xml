@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Friend Exchange</string>
+
+    <!-- General -->
+    <string name="loading">Carregando</string>
+    <string name="error">Erro recebido: %s</string>
+    <string name="action_history">Histórico</string>
+
+    <string name="title_user">Usuário</string>
+    <string name="title_contact">Contatos</string>
+    <string name="title_history">Histórico</string>
+
+    <string name="hint_name">Nome</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_value">Valor</string>
+
+    <string name="button_title_transfer">Transferir</string>
+    <string name="button_title_cancel">Cancelar</string>
+    <string name="button_title_send">Enviar</string>
+
+    <string name="empty_value_error">Preencha um valor</string>
+    <string name="empty_history_list_error">Não há registros de transferências</string>
+</resources>
